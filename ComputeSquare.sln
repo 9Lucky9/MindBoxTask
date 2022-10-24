@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeSquare", "ComputeSquare\ComputeSquare.csproj", "{D5367DC1-4ADB-40F4-B8F1-A30DDC9EA40D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputeSquare", "ComputeSquare\ComputeSquare.csproj", "{D5367DC1-4ADB-40F4-B8F1-A30DDC9EA40D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeSquareUnitTests", "ComputeSquareUnitTests\ComputeSquareUnitTests.csproj", "{7052141A-D9AA-4099-9067-A1153AA38CAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputeSquare.UnitTests", "ComputeSquareUnitTests\ComputeSquare.UnitTests.csproj", "{7052141A-D9AA-4099-9067-A1153AA38CAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
